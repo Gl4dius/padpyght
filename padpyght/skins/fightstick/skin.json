@@ -1,0 +1,41 @@
+{
+  "general": {
+    "anti-aliasing": true,
+    "background": "base",
+    "background-color": [16, 20, 24],
+    "size": [586, 270]
+  },
+  "sticks": {
+    "left-stick": {
+      "position": [125, 132],
+      "radius": 30,
+      "size": [120, 120]
+    }
+  },
+  "buttons": {
+    "btn-LP": {
+      "position": [307, 94],
+      "size": [100, 100]
+    }, 
+    "btn-MP": {
+      "position": [411, 70],
+      "size": [100, 100]
+    }, 
+    "btn-HP": {
+      "position": [515, 70],
+      "size": [100, 100]
+    }, 
+    "btn-LK": {
+      "position": [295, 197],
+      "size": [100, 100]
+    }, 
+    "btn-MK": {
+      "position": [399, 173],
+      "size": [100, 100]
+    }, 
+    "btn-HK": {
+      "position": [503, 173],
+      "size": [100, 100]
+    }
+  }
+}
